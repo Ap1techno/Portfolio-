@@ -1,0 +1,44 @@
+.frem {
+  height: 100px;
+}
+.header{
+  margin: 15px ;
+  margin-left: 0;
+  font-size: 18px;
+
+}
+.github{
+  font-size: 2rem;
+}
+.facebook{
+  font-size: 2rem;
+}
+. heart{
+  font-size: 2rem;
+}
+.education1{
+  margin: 40px;
+}
+.position1{
+  width: 300px;
+  height: 350px;
+  
+  margin-right: 10px;
+  background-color: rgb(29, 220, 241);
+}
+.Position2 {
+display: flex;
+font-size: 30px;
+}
+.Skill1 {
+  background-color: rgb(109, 142, 231);
+  border: 2px solid black;
+      padding: 20px;
+      margin-top: 2px;
+      font-size: large;
+      
+}
+
+.project1{
+  margin: center;
+}
