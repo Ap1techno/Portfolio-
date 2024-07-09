@@ -12,7 +12,7 @@ const Project = () => {
           <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
             <div class="col">
               <div class="card shadow-sm">
-                <img src="photo8.png" class="img-thumbnail" alt="..." />
+                <img src="/images/photo8.png" class="img-thumbnail" alt="..." />
 
                 <div class="card-body">
                   <p
@@ -43,7 +43,7 @@ const Project = () => {
             </div>
             <div class="col">
               <div class="card shadow-sm">
-                <img src="photo11.png" class="img-thumbnail" alt="..." />
+                <img src="/images/photo11.png" class="img-thumbnail" alt="..." />
 
                 <div class="card-body">
                   <p class="card-text">

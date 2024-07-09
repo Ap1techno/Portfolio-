@@ -60,7 +60,7 @@ const Education = () => {
             style={{ width: "72%", height: "300px" }}
           >
             {" "}
-            <img src="photo9.png" class="img-thumbnail" alt="..." />
+            <img src="/images/photo9.png" class="img-thumbnail" alt="..." />
           </div>
           <br></br>
           <p>
@@ -82,7 +82,7 @@ const Education = () => {
             style={{ width: "72%", height: "300px" }}
           >
             {" "}
-            <img src="photo9.png" class="img-thumbnail" alt="..." />
+            <img src="/images/photo9.png" class="img-thumbnail" alt="..." />
           </div>
           <br></br>
           <p>
@@ -105,7 +105,7 @@ const Education = () => {
             style={{ width: "65%", height: "300px" }}
           >
             {" "}
-            <img src="photo10.png" class="img-thumbnail" alt="..." />
+            <img src="/images/photo10.png" class="img-thumbnail" alt="..." />
           </div>
           <br></br>
           <p>

@@ -22,6 +22,7 @@
 .position1{
   width: 300px;
   height: 350px;
+  border-radius: 35pxs;
   
   margin-right: 10px;
   background-color: rgb(29, 220, 241);
@@ -41,4 +42,6 @@ font-size: 30px;
 
 .project1{
   margin: center;
+  border-radius: 35pxs;
 }
+

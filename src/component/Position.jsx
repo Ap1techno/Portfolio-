@@ -13,8 +13,8 @@ const Position = () => {
 
         <div className="Position2">
           <img
-            src="photo1.jpg"
-            class="rounded d-block position1"
+            src="/images/photo1.jpg"
+            class="rounded d-block position1 "
             alt="cb"
           ></img>{" "}
           <p>
