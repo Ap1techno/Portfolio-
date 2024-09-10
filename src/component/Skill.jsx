@@ -8,10 +8,10 @@ const Skill = () => {
             <h1 class="text-body-emphasis">
               <SiHyperskill /> Skill
             </h1>
-            <div class="w-25 p-3 Skill1">HTML5 25%</div>
-            <div class="w-50 p-3 Skill1">CSS 50%</div>
+            <div class="w-75 p-3 Skill1">HTML5 75%</div>
+            <div class="w-75 p-3 Skill1">CSS 75%</div>
             <div class="w-75 p-3 Skill1">Javasript 75%</div>
-            <div class="w-50  p-3 Skill1">React-js 75%</div>
+            <div class="w-50  p-3 Skill1">React-js 50%</div>
             <div class="w-75 p-3 Skill1">
               java & Data Structure Algorithm 75%
             </div>

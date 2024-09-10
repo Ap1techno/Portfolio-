@@ -15,9 +15,11 @@ function App() {
     <>
       <Header></Header>
      <Myfrem></Myfrem>
+     <hr></hr>
      <Position></Position>
     
      <Education></Education>
+     <hr/>
      <Skill></Skill>
      <Project></Project>
      <Footer></Footer>
